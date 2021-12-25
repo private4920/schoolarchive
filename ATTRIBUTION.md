@@ -6,5 +6,5 @@ The following information may be useful:
 ### Recommended Attribution
 
 ```
-"(Filename)" Copyright (c) (YEAR) Gabriel Seto Pribadi (Link to github page) Licensed under CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ (Indicate here if changes were made).
+"(Filename)" Copyright (c) (YEAR) Gabriel Seto Pribadi (Link to github page of the file) Licensed under CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ (Indicate here if changes were made).
 ```
