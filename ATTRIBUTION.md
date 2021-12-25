@@ -1,5 +1,5 @@
 # Attribution Guide
-The following information may be useful to give attribution:
+The following information may be useful:
 - My name is Gabriel Seto Pribadi
 - The copyright year is the first four digits of the file name
 - - For example: The copyright year of `2021-01-01_FILE.jpg` is 2021
